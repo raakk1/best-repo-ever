@@ -15,5 +15,3 @@ vandaag gaan we weer vrolijk verder en kijken we naar de historie in Git
 en de verschillen tussen de stage
 
 nu gaan we proberen de wijzigingen in verschillende commits terug te draaien
-de wijzigingen worden stapsgewijs uitgevoerd
-in totaal voegen we 3 regels toe, dus ook 3 commits
