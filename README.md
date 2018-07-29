@@ -12,4 +12,6 @@ wat een mega conflict, je zit gewoon op dezelfde regels
 te schrijven als branch 1!
 
 vandaag gaan we weer vrolijk verder en kijken we naar de historie in Git
-en de verschillen tussen de stages
+en de verschillen tussen de stage
+
+nu gaan we proberen de wijzigingen in verschillende commits terug te draaien
